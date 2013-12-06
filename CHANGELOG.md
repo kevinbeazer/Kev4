@@ -11,7 +11,7 @@
 * Update to Google Universal Analytics ([#1347](https://github.com/h5bp/html5-boilerplate/issues/1347)).
 * Update to jQuery 1.10.2.
 * Update to Normalize.css 1.1.3.
-
+cvghc
 ### 4.2.0 (April 8, 2013)
 
 * Remove Google Analytics protocol check ([#1319](https://github.com/h5bp/html5-boilerplate/pull/1319)).
